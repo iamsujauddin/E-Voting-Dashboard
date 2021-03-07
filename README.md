@@ -26,16 +26,16 @@ This is simple E-voting dashboard using Angular and NG Zorro
 # Take a look at the dashboard template
 
 welcome
-<img src="image/welome_ss.png">
+<img src="image/welcome_ss.png">
 
 Result
 <img src="image/result_ss.png">
 
 Profile
-<img src="image/profile_ss.png>
+<img src="image/profile_ss.png">
 
 Logout
-<img src="image/logout_ss.png>
+<img src="image/logout_ss.png">
 
 ## Development server
 
