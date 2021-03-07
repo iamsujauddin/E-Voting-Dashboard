@@ -1,0 +1,21 @@
+#header1 {
+  text-align: center;
+}
+#header2 {
+  margin-top: 40px;
+  text-align: center;
+}
+#header3 {
+  text-align: center;
+}
+.image {
+  margin-left: 400px;
+  position: relative;
+  width: 140px;
+  height: 140px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.para1 {
+  padding-top: 40px;
+}
